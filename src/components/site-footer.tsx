@@ -40,7 +40,7 @@ export function SiteFooter() {
       <div className="mx-auto grid w-full max-w-[1400px] gap-12 px-5 py-16 sm:px-8 lg:grid-cols-[1.4fr_1fr_1fr_1.4fr]">
         <div>
           <p className="font-display text-3xl font-semibold tracking-[0.14em]">
-            MiniShop
+            ParaKart
             <span className="ml-1 inline-block size-2 rounded-full bg-clay" />
           </p>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-cream/50">
@@ -97,7 +97,7 @@ export function SiteFooter() {
       {/* Bottom bar */}
       <div className="border-t border-cream/10">
         <div className="mx-auto flex w-full max-w-[1400px] flex-col items-center justify-between gap-3 px-5 py-6 text-xs text-cream/40 sm:flex-row sm:px-8">
-          <p>© 2026 MiniShop Studio. All objects deserve good homes.</p>
+          <p>© 2026 ParaKart Studio. All objects deserve good homes.</p>
           <p>
             Demo storefront · Product data by{" "}
             <a

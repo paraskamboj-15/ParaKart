@@ -1,5 +1,5 @@
 {
-  "name": "minishop",
+  "name": "parakart",
   "private": true,
   "scripts": {
     "dev": "next dev",

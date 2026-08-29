@@ -22,7 +22,7 @@ import { Skeleton } from "@/components/skeletons";
 const FREE_SHIPPING_THRESHOLD = 50;
 const FLAT_SHIPPING = 4.95;
 const TAX_RATE = 0.08;
-const PROMO_CODE = "MiniShop10";
+const PROMO_CODE = "ParaKart10";
 
 export function CartView() {
   const items = useCart((s) => s.items);

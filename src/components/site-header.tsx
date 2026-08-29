@@ -102,7 +102,7 @@ export function SiteHeader({ categories }: { categories: Category[] }) {
             href="/"
             className="group flex items-baseline gap-1 font-display text-[26px] font-semibold tracking-[0.16em]"
           >
-            MiniShop
+            ParaKart
             <span className="inline-block size-2 rounded-full bg-clay transition-transform duration-500 group-hover:rotate-45 group-hover:scale-125" />
           </Link>
 
@@ -285,7 +285,7 @@ function MobileMenu({
       >
         <div className="flex items-center justify-between border-b border-line px-6 py-5">
           <span className="font-display text-xl font-semibold tracking-[0.16em]">
-            MiniShop
+            ParaKart
             <span className="ml-1 inline-block size-1.5 rounded-full bg-clay" />
           </span>
           <button

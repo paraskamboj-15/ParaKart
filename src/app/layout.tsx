@@ -21,8 +21,8 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "MiniShop - Objects of Everyday Desire",
-    template: "%s · MiniShop",
+    default: "ParaKart - Objects of Everyday Desire",
+    template: "%s · ParaKart",
   },
   description:
     "A curated catalogue of tech, beauty and homeware. 190+ products, free shipping over $50, 30-day returns.",

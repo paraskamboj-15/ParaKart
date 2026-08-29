@@ -1,8 +1,8 @@
-# MiniShop
+# ParaKart
 
-An elegant, tightly curated e-commerce storefront. Built to be fast, accessible, and visually striking, MiniShop offers a premium browsing experience for tech, beauty, and homeware products.
+An elegant, tightly curated e-commerce storefront. Built to be fast, accessible, and visually striking, ParaKart offers a premium browsing experience for tech, beauty, and homeware products.
 
-**🌍 Live Demo:** [minishop.vercel.app](https://minishop-beta-version.vercel.app)
+**🌍 Live Demo:** [parakart.vercel.app](https://parakart.vercel.app)
 
 ---
 
@@ -19,7 +19,7 @@ An elegant, tightly curated e-commerce storefront. Built to be fast, accessible,
 ## ✨ Features
 
 *   **Responsive Design:** Fully responsive layout with mobile-first sliding drawers and filters.
-*   **Client-side Cart:** Persistent shopping cart managed globally via Zustand (securely namespaced locally as `mini-shop`).
+*   **Client-side Cart:** Persistent shopping cart managed globally via Zustand (securely namespaced locally as `para-kart`).
 *   **Editorial UI:** Custom typography, layout animations, and subtle grain filters for a premium aesthetic.
 *   **Server-Side Rendering:** SEO-optimized product pages and category fetching.
 *   **Smart Search & Filtering:** Debounced search inputs and category navigation with URL state syncing.
@@ -34,8 +34,8 @@ An elegant, tightly curated e-commerce storefront. Built to be fast, accessible,
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/minishop.git](https://github.com/your-username/minishop.git)
-    cd minishop
+    git clone [https://github.com/your-username/parakart.git](https://github.com/your-username/parakart.git)
+    cd parakart
     ```
 
 2.  **Install dependencies:**
