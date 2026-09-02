@@ -104,7 +104,7 @@ export function CartView() {
   const progress = Math.min(1, (subtotal - discount) / FREE_SHIPPING_THRESHOLD);
 
   const placeOrder = () => {
-    const num = `FRM-${Math.random().toString(36).slice(2, 8).toUpperCase()}`;
+    const num = `PKT-${Math.random().toString(36).slice(2, 8).toUpperCase()}`;
     clearCart();
     setOrderPlaced(num);
   };
